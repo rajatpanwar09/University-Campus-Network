@@ -7,7 +7,14 @@ This project demonstrates the design and implementation of a University Campus N
 The network includes a Main Campus and a Branch Campus connected through WAN links, simulating a real-world university networking environment.
 
 ---
+## 🛠 Tools Used
 
+- Cisco Packet Tracer
+- Cisco 2911 Routers
+- Cisco 3650 Layer 3 Switches
+- Cisco 2960 Layer 2 Switches
+
+---
 ## 🎯 Project Objectives
 
 - Design a scalable university campus network.
